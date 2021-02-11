@@ -28,8 +28,8 @@
   },
   "dependencies": {
     "moment": "^2.24.0",
-    "react": "16.8.6",
-    "react-native": "0.61.4"
+    "react": "16.13.1",
+    "react-native": "0.63.4"
   },
   "devDependencies": {
     "@types/react": "^16.9.23",
